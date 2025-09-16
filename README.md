@@ -3,10 +3,10 @@
 > Passionate developer crafting digital experiences
 
 ## 🚀 About Me
-- 🔭 Currently working on **[Current Project]**
-- 🌱 Learning **[Technology/Skill]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[your.email@example.com]**
+- 🔭 Currently working on **[Genesys]**
+- 🌱 Learning **[Web3 Integration]**
+- 💬 Ask me about **[Frontend Development]**
+- 📫 Reach me at **[elnandaraya@gmail,com]**
 
 ## 🛠️ Tech Stack
 
@@ -47,14 +47,11 @@
 
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=rai879&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rai879&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rai879&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rai879&show_icons=true&theme=minimal&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai879&layout=compact&theme=minimal&hide_border=true)
-
-</div>
 
 ## 🌐 Connect With Me
 
