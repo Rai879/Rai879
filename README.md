@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rai879&show_icons=true&theme=minimal&hide_border=true&count_private=true)
 
@@ -56,26 +56,9 @@
 
 </div>
 
-## 🎯 Featured Projects
-
-### [Project Name 1](https://github.com/your-username/project-1)
-Brief description of what this project does and technologies used.
-
-### [Project Name 2](https://github.com/your-username/project-2)
-Brief description of what this project does and technologies used.
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
----
-
-<div align="center">
-  
-*"Code is poetry written in logic"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=brightgreen)
-
-</div>
